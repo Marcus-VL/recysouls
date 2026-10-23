@@ -1,0 +1,6 @@
+{
+  "name": "RecySouls",
+  "description": "Deposite resíduos eletrônicos na fogueira ecológica do RecySouls, acumule almas recicladas e purifique o meio ambiente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
